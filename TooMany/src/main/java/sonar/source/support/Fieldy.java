@@ -30,4 +30,5 @@ public class Fieldy {
 	int f28;
 	int f29;
 	int f30;
+	//some new code in reduce-number-of-fileds branch
 }
